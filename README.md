@@ -12,10 +12,14 @@ functioning SketchUp Extensions, complete with comments and helpful hints.
 Hopefully you can use these examples however you want. The Example code is
 available 3 different ways. You can:
 
-1. Read the [Example Extensions tutorials on the SketchUp Developer website](https://stg-aws-dev.sketchup.com/developers/example-extensions).
+1. (WORKING) Read the [Example Extensions tutorials on the SketchUp Developer website](https://stg-aws-dev.sketchup.com/developers/example-extensions).
    Read through the step by step tutorial of the code and comments and try to
    follow along by building the same extension yourself. Use these examples to
    help learn better SketchUp API usage.
+1. (BROKEN) Read the [Example Extensions tutorials on the SketchUp Developer website](https://developer.sketchup.com/developers/example-extensions).
+Read through the step by step tutorial of the code and comments and try to
+follow along by building the same extension yourself. Use these examples to
+help learn better SketchUp API usage.
 2. Fork the [fully commented examples from Github](https://github.com/SketchUp/sketchup-ruby-api-tutorials/tree/main/tutorials).
    Get the code right on your machine, with all the comments for easy access.
    Use it as a quick reference to comments, code snippets, etc.
